@@ -1,8 +1,10 @@
 div{
-    border: green solid 3px;
-    width: 30%;
-    margin-left: 35%;
-    margin-right: 35%;
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    border: 2px solid green;
+    padding: 5px;
+    list-style: none;
 }
 h1, h2{
     text-align: center;
