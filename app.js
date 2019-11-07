@@ -1,7 +1,6 @@
 'use strict'
 let array = []
 
-// XMLHttpsRequest 
 let alpha = function(arr){
     let newArr = [];
   for (let i=0; i < arr.length; ++i){
@@ -39,7 +38,6 @@ let httpRequest = function(){
 }
 httpRequest();
 
-// Fetch 
 const byLength = function (x,y){
   if(x.username.length < y.username.length){
     return -1
